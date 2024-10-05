@@ -1,0 +1,245 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box1{
+    background-color: rgba(18, 43, 65, 0.97);
+    width: 100%;
+    height: 350px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    
+   
+}
+
+.text1{
+    position: absolute;
+    left:  100px;
+    color: white;
+    font-size: 18px;
+}
+
+h3{
+    margin-top: 90px;
+    margin-left: 100px;
+    width: 30%;
+    color: white;
+    font-size: 40px;
+}
+
+
+.text2{
+    position: absolute;
+    bottom: 90px;
+    margin-left: 100px ;
+    color: white;
+    width: 30%;
+    
+}
+
+button{
+    position: absolute;
+    background-color: rgb(72, 115, 203);
+    color: white;
+    margin-left: 100px ;
+    margin-top: 100px;
+    width: 8%;
+    height: 25px;
+    font-family: inherit;
+    bottom: 60px;
+    border: rgb(72, 115, 203);
+    border-style:solid ;
+    border-radius: 5px;
+}
+.link1{
+    position: absolute;
+    color: white;
+    right: 450px;
+    top: 0;    
+}
+
+.link2{
+    position: absolute;
+    color: white;
+    right: 320px;
+    top: inherit;
+}
+
+.link3{
+    position: absolute;
+    color: white;
+    right: 180px;
+    top: 0;
+}
+
+.container{
+    position: absolute;
+    text-align: center;
+    bottom: 100px;
+    background-color:#6B7280;
+    color: white;
+    box-sizing: border-box;
+    right:180px ;
+    width: 35%;
+    top: 100px;
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 180px;
+
+}
+
+.caja1{
+    position: absolute;
+    top: 440px;
+    border: 5px solid blue;
+    width: 10%;
+    height: 140px;
+    margin-left: 375px ;
+    border-radius: 10px;
+}
+
+.caja2{
+   
+    position: absolute;
+    left: 600px;
+    top: 440px;
+    border: 5px solid blue;
+    width: 10%;
+    height: 140px;
+    border-radius: 10px;
+}
+
+.caja3{
+   
+    position: absolute;
+    left: 830px;
+    top: 440px;
+    border: 5px solid blue;
+    width: 10%;
+    height: 140px;
+    border-radius: 10px;
+}
+
+.caja4{
+   
+    position: absolute;
+    left: 1060px;
+    top: 440px;
+    border: 5px solid blue;
+    width: 10%;
+    height: 140px;
+    border-radius: 10px;
+}
+
+.description1{
+    position: absolute;
+        top: 590px;
+        width: 10%;
+        left: 385px ;
+        
+   
+}
+
+.description2{
+
+    position: absolute;
+    left: 610px;
+    top: 590px;
+    width: 10%;
+}
+
+.description3{
+    position: absolute;
+    left: 840px;
+    top: 590px;
+    width: 10%;
+}
+
+.description4{
+    position: absolute;
+    left: 1070px;
+    top: 590px;
+    width: 10%;
+
+}
+
+.box2{
+    position: absolute;
+    width: 100%;
+    background-color: rgb(229, 231, 236);
+    height: 330px;
+    top: 800px;
+    margin: 0;
+    border: 0;
+}
+
+.frase1{
+    position: absolute;
+    top: 850px;
+    text-align: center;
+    font-size: 30px;
+    width: 700px;
+    left: 440px;
+}
+
+.author{
+    position: absolute;
+    top: 1030px;
+    left: 960px;
+    font-size: 25px;
+}
+
+.Sign{
+    position: absolute;
+    width: 60%;
+    height: 135px;
+    font-size: 25px;
+    padding-left: 30px;
+    padding-top: 5px;
+    background-color: rgb(29, 113, 209) ;
+    color: white;
+    top: 1250px;
+    left: 325px;
+    border: 3px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+
+.description5{
+    position: absolute;
+    top: 50px;
+    color: white;
+    font-size: 17px;
+}
+
+.button2{
+    position: absolute;
+    bottom: 50px;
+    left: 590px;
+    background-color: rgb(29, 113, 209) ;
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 14%;
+    height: 35px;
+}
+
+.copy{
+    position: absolute;
+    width: 60px;
+    background-color: rgba(18, 43, 65, 0.97);
+    top: 1490px;
+    width: 100%;
+    height: 80px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
+}
